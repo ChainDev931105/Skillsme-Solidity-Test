@@ -1,0 +1,22 @@
+{
+  "name": "skillsme-solidity-test",
+  "version": "1.0.0",
+  "description": "- Build a blockchain project with the language you choose.\r - Create an NFT Smart Contract with either an existing NFT or a new NFT created by you.\r - Build a Mint Contract for the NFT you selected.\r - Allowing any user with the Smart Contract to start an auction with a given bidding period, either blind or not of your choice. (Optional: allow users to choose whether the auction would be blind when they create it)\r - The balance of any user's wallet can never be negative.\r - Only allow one user to create additional coins for the NFT.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChainDev931105/Skillsme-Solidity-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChainDev931105/Skillsme-Solidity-Test/issues"
+  },
+  "homepage": "https://github.com/ChainDev931105/Skillsme-Solidity-Test#readme"
+}
